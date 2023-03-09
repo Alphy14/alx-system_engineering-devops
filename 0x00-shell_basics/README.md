@@ -13,3 +13,4 @@ this script executes the type of fine of the specified filename
 this script creates a symbolic link
 this script copies all .html files
 this script moves all files beginning with uppercase characters
+this script removes all files ending with ~
