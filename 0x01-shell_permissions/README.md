@@ -14,3 +14,4 @@ this script creates a directory and give it a specified permission
 this script changes the group ownership to a new one
 this script changes owner and group owner for all files and directories in the working directory
 this script changes the owner and the group owner of the specified ln file
+this script changes the owner of the file only if its owned by a specific user
