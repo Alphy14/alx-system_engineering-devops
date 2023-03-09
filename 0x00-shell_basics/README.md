@@ -11,3 +11,4 @@ this script changes the working directory to the previous one
 this script lists the content of the working directory, parent directory and /boot in order
 this script executes the type of fine of the specified filename
 this script creates a symbolic link
+this script copies all .html files
