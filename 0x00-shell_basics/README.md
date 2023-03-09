@@ -7,3 +7,4 @@ this script creates a new directory in the /tmp dir
 this script moves file betty to the newly created directory in /tmp
 this script deletes a file from the newly created directory
 this script deletes the newly created directory
+this script changes the working directory to the previous one
