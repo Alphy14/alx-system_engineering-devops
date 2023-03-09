@@ -15,3 +15,4 @@ this script copies all .html files
 this script moves all files beginning with uppercase characters
 this script removes all files ending with ~
 this script creates new directories
+this script lists contents with directories ending with /
