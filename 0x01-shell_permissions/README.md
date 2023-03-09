@@ -8,3 +8,4 @@ this script adds execute right to the owner and group owner and read right to th
 this script adds execute rights to owner, group owner and the other users
 this script adds read, write and execute rights to the other users
 this script sets the mode of the file to the specified mode
+this script sets the file mode of hello to the same as the file olleh
