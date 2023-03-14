@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM="echo -e "%.2f \n" 
+alias NUM="echo -e "%.2f \n" 
